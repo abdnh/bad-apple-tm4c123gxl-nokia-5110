@@ -1,0 +1,6 @@
+venv
+Debug
+*.pyc
+.vscode
+.settings
+.launches
